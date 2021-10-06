@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Kristiansand
 tags: kristiansand
 region: Europe
-meetup-group: 
+meetup-group: owasp-kristiansand-chapter 
 
 ---
 ## Welcome
