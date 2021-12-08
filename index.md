@@ -19,5 +19,5 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event 
 ---------------------
-{% The next meeting will be held in collaboration with the OWASP Oslo Chapter on 13 January 2022  %}
+The next meeting will be held in collaboration with the OWASP Oslo Chapter on 13 January 2022
 
